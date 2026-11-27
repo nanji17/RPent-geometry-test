@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "libero_spatial_task_t0_s1/A",
+    "case": "libero_spatial_task_t0_s1",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t0_s1/B",
+    "case": "libero_spatial_task_t0_s1",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t0_s2/A",
+    "case": "libero_spatial_task_t0_s2",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t0_s2/B",
+    "case": "libero_spatial_task_t0_s2",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t0_s3/A",
+    "case": "libero_spatial_task_t0_s3",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t0_s3/B",
+    "case": "libero_spatial_task_t0_s3",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t0_s4/A",
+    "case": "libero_spatial_task_t0_s4",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t0_s4/B",
+    "case": "libero_spatial_task_t0_s4",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t0_s5/A",
+    "case": "libero_spatial_task_t0_s5",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t0_s5/B",
+    "case": "libero_spatial_task_t0_s5",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t4_s1/A",
+    "case": "libero_spatial_task_t4_s1",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t4_s1/B",
+    "case": "libero_spatial_task_t4_s1",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t4_s2/A",
+    "case": "libero_spatial_task_t4_s2",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t4_s2/B",
+    "case": "libero_spatial_task_t4_s2",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t4_s3/A",
+    "case": "libero_spatial_task_t4_s3",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t4_s3/B",
+    "case": "libero_spatial_task_t4_s3",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t4_s4/A",
+    "case": "libero_spatial_task_t4_s4",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t4_s4/B",
+    "case": "libero_spatial_task_t4_s4",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_task_t4_s5/A",
+    "case": "libero_spatial_task_t4_s5",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_task_t4_s5/B",
+    "case": "libero_spatial_task_t4_s5",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s1/A",
+    "case": "libero_spatial_swap_t0_s1",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s1/B",
+    "case": "libero_spatial_swap_t0_s1",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s2/A",
+    "case": "libero_spatial_swap_t0_s2",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s2/B",
+    "case": "libero_spatial_swap_t0_s2",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s3/A",
+    "case": "libero_spatial_swap_t0_s3",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s3/B",
+    "case": "libero_spatial_swap_t0_s3",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s4/A",
+    "case": "libero_spatial_swap_t0_s4",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s4/B",
+    "case": "libero_spatial_swap_t0_s4",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s5/A",
+    "case": "libero_spatial_swap_t0_s5",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t0_s5/B",
+    "case": "libero_spatial_swap_t0_s5",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s1/A",
+    "case": "libero_spatial_swap_t4_s1",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s1/B",
+    "case": "libero_spatial_swap_t4_s1",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s2/A",
+    "case": "libero_spatial_swap_t4_s2",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s2/B",
+    "case": "libero_spatial_swap_t4_s2",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s3/A",
+    "case": "libero_spatial_swap_t4_s3",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s3/B",
+    "case": "libero_spatial_swap_t4_s3",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s4/A",
+    "case": "libero_spatial_swap_t4_s4",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s4/B",
+    "case": "libero_spatial_swap_t4_s4",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s5/A",
+    "case": "libero_spatial_swap_t4_s5",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_spatial_swap_t4_s5/B",
+    "case": "libero_spatial_swap_t4_s5",
+    "query": "the small light-colored round cup with vertically fluted sides",
+    "object_prompt": "small light-colored round cup",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_object_task_t0_s1/A",
+    "case": "libero_object_task_t0_s1",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s1/B",
+    "case": "libero_object_task_t0_s1",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s2/A",
+    "case": "libero_object_task_t0_s2",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s2/B",
+    "case": "libero_object_task_t0_s2",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s3/A",
+    "case": "libero_object_task_t0_s3",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s3/B",
+    "case": "libero_object_task_t0_s3",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s4/A",
+    "case": "libero_object_task_t0_s4",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s4/B",
+    "case": "libero_object_task_t0_s4",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s5/A",
+    "case": "libero_object_task_t0_s5",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t0_s5/B",
+    "case": "libero_object_task_t0_s5",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s1/A",
+    "case": "libero_object_task_t4_s1",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s1/B",
+    "case": "libero_object_task_t4_s1",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s2/A",
+    "case": "libero_object_task_t4_s2",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s2/B",
+    "case": "libero_object_task_t4_s2",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s3/A",
+    "case": "libero_object_task_t4_s3",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s3/B",
+    "case": "libero_object_task_t4_s3",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s4/A",
+    "case": "libero_object_task_t4_s4",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s4/B",
+    "case": "libero_object_task_t4_s4",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s5/A",
+    "case": "libero_object_task_t4_s5",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_task_t4_s5/B",
+    "case": "libero_object_task_t4_s5",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s1/A",
+    "case": "libero_object_swap_t0_s1",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s1/B",
+    "case": "libero_object_swap_t0_s1",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s2/A",
+    "case": "libero_object_swap_t0_s2",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s2/B",
+    "case": "libero_object_swap_t0_s2",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s3/A",
+    "case": "libero_object_swap_t0_s3",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s3/B",
+    "case": "libero_object_swap_t0_s3",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s4/A",
+    "case": "libero_object_swap_t0_s4",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s4/B",
+    "case": "libero_object_swap_t0_s4",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s5/A",
+    "case": "libero_object_swap_t0_s5",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t0_s5/B",
+    "case": "libero_object_swap_t0_s5",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s1/A",
+    "case": "libero_object_swap_t4_s1",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s1/B",
+    "case": "libero_object_swap_t4_s1",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s2/A",
+    "case": "libero_object_swap_t4_s2",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s2/B",
+    "case": "libero_object_swap_t4_s2",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s3/A",
+    "case": "libero_object_swap_t4_s3",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s3/B",
+    "case": "libero_object_swap_t4_s3",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s4/A",
+    "case": "libero_object_swap_t4_s4",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s4/B",
+    "case": "libero_object_swap_t4_s4",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s5/A",
+    "case": "libero_object_swap_t4_s5",
+    "query": "the blue-and-white rectangular cream cheese box",
+    "object_prompt": "blue-and-white rectangular cream cheese box",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_object_swap_t4_s5/B",
+    "case": "libero_object_swap_t4_s5",
+    "query": "the cylindrical soup can with a blue-and-yellow label",
+    "object_prompt": "cylindrical soup can",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t0_s1/A",
+    "case": "libero_goal_task_t0_s1",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t0_s1/B",
+    "case": "libero_goal_task_t0_s1",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t0_s2/A",
+    "case": "libero_goal_task_t0_s2",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t0_s2/B",
+    "case": "libero_goal_task_t0_s2",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t0_s3/A",
+    "case": "libero_goal_task_t0_s3",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t0_s3/B",
+    "case": "libero_goal_task_t0_s3",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t0_s4/A",
+    "case": "libero_goal_task_t0_s4",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t0_s4/B",
+    "case": "libero_goal_task_t0_s4",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t0_s5/A",
+    "case": "libero_goal_task_t0_s5",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t0_s5/B",
+    "case": "libero_goal_task_t0_s5",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t7_s1/A",
+    "case": "libero_goal_task_t7_s1",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t7_s1/B",
+    "case": "libero_goal_task_t7_s1",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t7_s2/A",
+    "case": "libero_goal_task_t7_s2",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t7_s2/B",
+    "case": "libero_goal_task_t7_s2",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t7_s3/A",
+    "case": "libero_goal_task_t7_s3",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t7_s3/B",
+    "case": "libero_goal_task_t7_s3",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t7_s4/A",
+    "case": "libero_goal_task_t7_s4",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t7_s4/B",
+    "case": "libero_goal_task_t7_s4",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_task_t7_s5/A",
+    "case": "libero_goal_task_t7_s5",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_task_t7_s5/B",
+    "case": "libero_goal_task_t7_s5",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t0_s1/A",
+    "case": "libero_goal_swap_t0_s1",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t0_s1/B",
+    "case": "libero_goal_swap_t0_s1",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t0_s2/A",
+    "case": "libero_goal_swap_t0_s2",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t0_s2/B",
+    "case": "libero_goal_swap_t0_s2",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t0_s3/A",
+    "case": "libero_goal_swap_t0_s3",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t0_s3/B",
+    "case": "libero_goal_swap_t0_s3",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t0_s4/A",
+    "case": "libero_goal_swap_t0_s4",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t0_s4/B",
+    "case": "libero_goal_swap_t0_s4",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t0_s5/A",
+    "case": "libero_goal_swap_t0_s5",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t0_s5/B",
+    "case": "libero_goal_swap_t0_s5",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t7_s1/A",
+    "case": "libero_goal_swap_t7_s1",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t7_s1/B",
+    "case": "libero_goal_swap_t7_s1",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t7_s2/A",
+    "case": "libero_goal_swap_t7_s2",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t7_s2/B",
+    "case": "libero_goal_swap_t7_s2",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t7_s3/A",
+    "case": "libero_goal_swap_t7_s3",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t7_s3/B",
+    "case": "libero_goal_swap_t7_s3",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t7_s4/A",
+    "case": "libero_goal_swap_t7_s4",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t7_s4/B",
+    "case": "libero_goal_swap_t7_s4",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_goal_swap_t7_s5/A",
+    "case": "libero_goal_swap_t7_s5",
+    "query": "the white ceramic plate with concentric red rings around its rim",
+    "object_prompt": "white ceramic plate",
+    "fields": [
+      "disk_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_goal_swap_t7_s5/B",
+    "case": "libero_goal_swap_t7_s5",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t3_s1/A",
+    "case": "libero_10_task_t3_s1",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t3_s1/B",
+    "case": "libero_10_task_t3_s1",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_task_t3_s2/A",
+    "case": "libero_10_task_t3_s2",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t3_s2/B",
+    "case": "libero_10_task_t3_s2",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_task_t3_s3/A",
+    "case": "libero_10_task_t3_s3",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t3_s3/B",
+    "case": "libero_10_task_t3_s3",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_task_t3_s4/A",
+    "case": "libero_10_task_t3_s4",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t3_s4/B",
+    "case": "libero_10_task_t3_s4",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_task_t3_s5/A",
+    "case": "libero_10_task_t3_s5",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t3_s5/B",
+    "case": "libero_10_task_t3_s5",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_task_t9_s1/A",
+    "case": "libero_10_task_t9_s1",
+    "query": "the gray-and-white ceramic mug with raised textured sides",
+    "object_prompt": "gray-and-white ceramic mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s1/B",
+    "case": "libero_10_task_t9_s1",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s2/A",
+    "case": "libero_10_task_t9_s2",
+    "query": "the gray-and-white ceramic mug with raised textured sides",
+    "object_prompt": "gray-and-white ceramic mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s2/B",
+    "case": "libero_10_task_t9_s2",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s3/A",
+    "case": "libero_10_task_t9_s3",
+    "query": "the gray-and-white ceramic mug with raised textured sides",
+    "object_prompt": "gray-and-white ceramic mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s3/B",
+    "case": "libero_10_task_t9_s3",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s4/A",
+    "case": "libero_10_task_t9_s4",
+    "query": "the gray-and-white ceramic mug with raised textured sides",
+    "object_prompt": "gray-and-white ceramic mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s4/B",
+    "case": "libero_10_task_t9_s4",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s5/A",
+    "case": "libero_10_task_t9_s5",
+    "query": "the gray-and-white ceramic mug with raised textured sides",
+    "object_prompt": "gray-and-white ceramic mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_task_t9_s5/B",
+    "case": "libero_10_task_t9_s5",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t3_s1/A",
+    "case": "libero_10_swap_t3_s1",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t3_s1/B",
+    "case": "libero_10_swap_t3_s1",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_swap_t3_s2/A",
+    "case": "libero_10_swap_t3_s2",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t3_s2/B",
+    "case": "libero_10_swap_t3_s2",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_swap_t3_s3/A",
+    "case": "libero_10_swap_t3_s3",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t3_s3/B",
+    "case": "libero_10_swap_t3_s3",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_swap_t3_s4/A",
+    "case": "libero_10_swap_t3_s4",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t3_s4/B",
+    "case": "libero_10_swap_t3_s4",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_swap_t3_s5/A",
+    "case": "libero_10_swap_t3_s5",
+    "query": "the black-and-white floral-patterned bowl with a thin yellow rim",
+    "object_prompt": "floral-patterned bowl",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t3_s5/B",
+    "case": "libero_10_swap_t3_s5",
+    "query": "the tall dark-green wine bottle with a narrow neck and a gold-colored cap",
+    "object_prompt": "tall dark-green wine bottle",
+    "fields": [
+      "base_center"
+    ],
+    "feature": "supported_round_base"
+  },
+  {
+    "id": "libero_10_swap_t9_s1/A",
+    "case": "libero_10_swap_t9_s1",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t9_s1/B",
+    "case": "libero_10_swap_t9_s1",
+    "query": "the black rectangular microwave oven on the kitchen counter",
+    "object_prompt": "microwave oven",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_10_swap_t9_s2/A",
+    "case": "libero_10_swap_t9_s2",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t9_s2/B",
+    "case": "libero_10_swap_t9_s2",
+    "query": "the black rectangular microwave oven on the kitchen counter",
+    "object_prompt": "microwave oven",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_10_swap_t9_s3/A",
+    "case": "libero_10_swap_t9_s3",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t9_s3/B",
+    "case": "libero_10_swap_t9_s3",
+    "query": "the black rectangular microwave oven on the kitchen counter",
+    "object_prompt": "microwave oven",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_10_swap_t9_s4/A",
+    "case": "libero_10_swap_t9_s4",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t9_s4/B",
+    "case": "libero_10_swap_t9_s4",
+    "query": "the black rectangular microwave oven on the kitchen counter",
+    "object_prompt": "microwave oven",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  },
+  {
+    "id": "libero_10_swap_t9_s5/A",
+    "case": "libero_10_swap_t9_s5",
+    "query": "the smooth two-tone yellow-and-white mug with a yellow handle",
+    "object_prompt": "smooth two-tone yellow-and-white mug",
+    "fields": [
+      "ring_center"
+    ],
+    "feature": "upper_inner_ring"
+  },
+  {
+    "id": "libero_10_swap_t9_s5/B",
+    "case": "libero_10_swap_t9_s5",
+    "query": "the black rectangular microwave oven on the kitchen counter",
+    "object_prompt": "microwave oven",
+    "fields": [
+      "rectangle_center"
+    ],
+    "feature": "upper_face"
+  }
+]
